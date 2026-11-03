@@ -1,0 +1,313 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/staging' branch; Version is '6000.6.2f1 (770e33f6875c) revision 7802419'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-200352" at "2026-11-03T16:26:36.8757709Z"
+OS: 'Windows 11  (10.0.26300) Education' Language: 'es' Physical Memory: 32616 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-03T16:26:36Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW12
+-projectPath
+C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds
+-logFile
+Logs/AssetImportWorkerHW12.log
+-srvPort
+64866
+-parentPid
+28456
+-analyticsCloudUserId
+4674239403675
+-analyticsCloudProjectId
+6804d94b-78e0-4d40-b88d-b5047c843ce3
+-analyticsLocalProjectId
+eab2a82f800792045b78dc787fb16d46
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+915ba4cc70ad5a4c83b8a70fc1613834ad6ffc8d
+-cbmMachineId
+KNc77UbyRSlQQ6DDOEyQiebIWUA=
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds
+C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [25484]  Target information:
+
+Player connection [25484]  * "[IP] 172.16.224.214 [Port] 0 [Flags] 2 [Guid] 3337851396 [EditorId] 3337851396 [Version] 1048832 [Id] WindowsEditor(7,G110M19) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [25484] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [25484] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: aebc2f655c5fd27f52b464042b463593
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 6.09 ms, found 5 plugins.
+Initialize engine version: 6000.6.2f1 (770e33f6875c)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 2070 Super (ID=0x1e91)
+    Vendor:          NVIDIA
+    VRAM:            7989 MB
+    App VRAM Budget: 7221 MB
+    Driver:          32.0.16.1692
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56400
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003368 seconds.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-200352"
+[Licensing::IpcConnector] LicenseClient-200352 channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-200352-6000.6.2" at "2026-11-03T16:26:38.868217Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 28952, path: "C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              ef31ff9be2ed4dbcaa6e8f8825743b3b
+  Correlation Id:          b92c6936ddd8d105adef93516985995b
+  External correlation Id: 2480627055687489421
+  Machine Id:              KNc77UbyRSlQQ6DDOEyQiebIWUA=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-200352-6000.6.2" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-200352-6000.6.2-notifications" at "2026-11-03T16:26:38.884134Z"
+[Licensing::Module] Licensing Background thread has ended after 2.01s
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.868 seconds
+Domain Reload Profiling: 1803ms
+	BeginReloadAssembly (256ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (115ms)
+	LoadAllAssembliesAndSetupDomain (525ms)
+		LoadAssemblies (247ms)
+		TypeCache.Refresh (373ms)
+			TypeCache.ScanAssembly (349ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (869ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (156ms)
+			ProcessInitializeOnLoadAttributes (135ms)
+			ProcessInitializeOnLoadMethodAttributes (437ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674239403675-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 3.18 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 3.34 ms, found 5 plugins.
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.461 seconds
+Domain Reload Profiling: 3100ms
+	BeginReloadAssembly (330ms)
+		DisableScriptedObjects (14ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (13ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (104ms)
+	LoadAllAssembliesAndSetupDomain (1166ms)
+		LoadAssemblies (650ms)
+		TypeCache.Refresh (306ms)
+			TypeCache.ScanAssembly (278ms)
+		AnalyzeDomain (142ms)
+			BuildScriptInfoCaches (133ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1463ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (176ms)
+			ProcessInitializeOnLoadAttributes (650ms)
+			ProcessInitializeOnLoadMethodAttributes (329ms)
+			AfterProcessingInitializeOnLoad (12ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 3.69 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7527 unused Assets / (7.2 MB). Loaded Objects now: 8513.
+Memory consumption went from 374.8 MB to 367.6 MB.
+Total: 15.706400 ms (FindLiveObjects: 2.157500 ms CreateObjectMapping: 1.648500 ms MarkObjects: 8.507400 ms  DeleteObjects: 3.033300 ms)
+
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:56.9870692Z
+  Time since last request: 5345.28919320000023 seconds.
+  importAddress: GUID: b7a24c59eb0e541d898f3e50545c0063 - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_DownRight_Defence.png - Importer: PreviewImporter
+Importing 'GUID: b7a24c59eb0e541d898f3e50545c0063 - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_DownRight_Defence.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: b7a24c59eb0e541d898f3e50545c0063' -> (Import Result ID: 'e1b40ab956f68b76b9c0fb021189bcc5') in 0.154 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e137e6e67509bd1e57d1df14c375bb26 DependenciesID=e8be7b1aa36f06cd1b20dec7b88e5b36 StaticDependenciesID=a850337514bca6469948e866922dcacf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:57.168338Z
+  Time since last request: 0.0000442 seconds.
+  importAddress: GUID: 421a8e91dc8d1429a8edbfeb55e5d4db - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_Right_Attack.png - Importer: PreviewImporter
+Importing 'GUID: 421a8e91dc8d1429a8edbfeb55e5d4db - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_Right_Attack.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 421a8e91dc8d1429a8edbfeb55e5d4db' -> (Import Result ID: 'e8104406ae7d88cd2b8a3a328cf9a0ea') in 0.020 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=27182ea14e1e2c8506dce73580a7b737 DependenciesID=83b68dbbf7e91aad76b32b3b96e088ed StaticDependenciesID=65aa6e6d46063f77fc96569f24956743 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:12.9966291Z
+  Time since last request: 15.7910218 seconds.
+  importAddress: GUID: f846c6072ceb0445bbcb59c41b57a5cb - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_04.png - Importer: PreviewImporter
+Importing 'GUID: f846c6072ceb0445bbcb59c41b57a5cb - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_04.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f846c6072ceb0445bbcb59c41b57a5cb' -> (Import Result ID: '4d6b21e17e3adad593ba72a894854e3e') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d278fcfc3906b860ef241e0a89215295 DependenciesID=5f60d0ec9008499183b675d7c519498d StaticDependenciesID=52d205ae36268140496ebb54adfd56d1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.0283715Z
+  Time since last request: 0.000502 seconds.
+  importAddress: GUID: 2a287585274c74b87b098f1980d2f044 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_12.png - Importer: PreviewImporter
+Importing 'GUID: 2a287585274c74b87b098f1980d2f044 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_12.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 2a287585274c74b87b098f1980d2f044' -> (Import Result ID: '1704388e021d67166ad64c02356d9198') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ba505890c421ea7aab9b72c27c1e81bc DependenciesID=da0fc1a7aae41c96657953c8c3127508 StaticDependenciesID=cc33c9de4c459224cad49f3806167683 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.0610861Z
+  Time since last request: 0.0008802 seconds.
+  importAddress: GUID: edeeaf011ec784a42bbc766e3e983972 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_06.png - Importer: PreviewImporter
+Importing 'GUID: edeeaf011ec784a42bbc766e3e983972 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_06.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: edeeaf011ec784a42bbc766e3e983972' -> (Import Result ID: '9196081625b500e6acf1be703315633c') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e0766cd5b0daba079fdb21f28845f7e4 DependenciesID=b4623cdad2b26e137dc6771de33f6609 StaticDependenciesID=a14a156cf235542b54876b44ca4764e8 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.0933051Z
+  Time since last request: 0.0004486 seconds.
+  importAddress: GUID: d71d4e77dfe1d4474acad9d613932ec8 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_20.png - Importer: PreviewImporter
+Importing 'GUID: d71d4e77dfe1d4474acad9d613932ec8 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_20.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d71d4e77dfe1d4474acad9d613932ec8' -> (Import Result ID: 'cea9428403494f88369ce2a7f5154fe0') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=118398f5a0af211777fa1c2c7de9896c DependenciesID=82c917bef439b362a15eacb304a8f774 StaticDependenciesID=06d252d18a6cd2a892bccf32ae378085 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.1239035Z
+  Time since last request: 0.0005352 seconds.
+  importAddress: GUID: d79309ce9b85f47f5bfffa6659e02bfd - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_16.png - Importer: PreviewImporter
+Importing 'GUID: d79309ce9b85f47f5bfffa6659e02bfd - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_16.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d79309ce9b85f47f5bfffa6659e02bfd' -> (Import Result ID: 'ef3eeca51e6fdd07111314d5a137e126') in 0.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=33eb2ad0adb709a99ca81b962a5a7641 DependenciesID=491945184806479f4f7e7a8556c5c89c StaticDependenciesID=22c89c137a077f90cb4fb50d11780918 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.1555718Z
+  Time since last request: 0.0006247 seconds.
+  importAddress: GUID: a7ddf97c30db44d2581c9d2b9ec8d39d - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_23.png - Importer: PreviewImporter
+Importing 'GUID: a7ddf97c30db44d2581c9d2b9ec8d39d - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_23.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: a7ddf97c30db44d2581c9d2b9ec8d39d' -> (Import Result ID: '4b1e047ba292fc40af45e00414c98b60') in 0.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=78ec0fffd70599c683d4f76531a934dc DependenciesID=8616663ba87ecfc26b99a449006bf28b StaticDependenciesID=128ae2edbce801271ec331bd7d118455 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

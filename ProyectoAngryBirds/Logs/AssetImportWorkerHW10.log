@@ -1,0 +1,459 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-200352" at "2026-11-03T16:11:33.2033332Z"
+Built from '6000.6/staging' branch; Version is '6000.6.2f1 (770e33f6875c) revision 7802419'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26300) Education' Language: 'es' Physical Memory: 32616 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-03T16:11:33Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW10
+-projectPath
+C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds
+-logFile
+Logs/AssetImportWorkerHW10.log
+-srvPort
+64866
+-parentPid
+28456
+-analyticsCloudUserId
+4674239403675
+-analyticsCloudProjectId
+6804d94b-78e0-4d40-b88d-b5047c843ce3
+-analyticsLocalProjectId
+eab2a82f800792045b78dc787fb16d46
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+915ba4cc70ad5a4c83b8a70fc1613834ad6ffc8d
+-cbmMachineId
+KNc77UbyRSlQQ6DDOEyQiebIWUA=
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds
+C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [19764]  Target information:
+
+Player connection [19764]  * "[IP] 172.16.224.214 [Port] 0 [Flags] 2 [Guid] 3867972172 [EditorId] 3867972172 [Version] 1048832 [Id] WindowsEditor(7,G110M19) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19764] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [19764] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: aebc2f655c5fd27f52b464042b463593
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 9.18 ms, found 5 plugins.
+Initialize engine version: 6000.6.2f1 (770e33f6875c)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/200352/Documents/GitHub/2do-Parcial/ProyectoAngryBirds/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 2070 Super (ID=0x1e91)
+    Vendor:          NVIDIA
+    VRAM:            7989 MB
+    App VRAM Budget: 7221 MB
+    Driver:          32.0.16.1692
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56064
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-200352"
+[Licensing::IpcConnector] LicenseClient-200352 channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-200352-6000.6.2" at "2026-11-03T16:11:35.0339117Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 28952, path: "C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              39acfd1696394a43b5033c519b7a8e17
+  Correlation Id:          b92c6936ddd8d105adef93516985995b
+  External correlation Id: 6351487044619860369
+  Machine Id:              KNc77UbyRSlQQ6DDOEyQiebIWUA=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-200352-6000.6.2" (connect: 0.00s, validation: 0.01s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-200352-6000.6.2-notifications" at "2026-11-03T16:11:35.056781Z"
+[Licensing::Module] Licensing Background thread has ended after 1.85s
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003836 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.785 seconds
+Domain Reload Profiling: 1603ms
+	BeginReloadAssembly (218ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (119ms)
+	LoadAllAssembliesAndSetupDomain (446ms)
+		LoadAssemblies (210ms)
+		TypeCache.Refresh (308ms)
+			TypeCache.ScanAssembly (289ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (786ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (137ms)
+			ProcessInitializeOnLoadAttributes (115ms)
+			ProcessInitializeOnLoadMethodAttributes (409ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674239403675-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.88 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 2.95 ms, found 5 plugins.
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.295 seconds
+Domain Reload Profiling: 2742ms
+	BeginReloadAssembly (296ms)
+		DisableScriptedObjects (12ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (96ms)
+	LoadAllAssembliesAndSetupDomain (1022ms)
+		LoadAssemblies (557ms)
+		TypeCache.Refresh (270ms)
+			TypeCache.ScanAssembly (247ms)
+		AnalyzeDomain (125ms)
+			BuildScriptInfoCaches (118ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1297ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (171ms)
+			ProcessInitializeOnLoadAttributes (567ms)
+			ProcessInitializeOnLoadMethodAttributes (294ms)
+			AfterProcessingInitializeOnLoad (10ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 2.96 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7527 unused Assets / (8.9 MB). Loaded Objects now: 8513.
+Memory consumption went from 373.5 MB to 364.5 MB.
+Total: 15.587800 ms (FindLiveObjects: 2.317200 ms CreateObjectMapping: 1.691700 ms MarkObjects: 7.914300 ms  DeleteObjects: 3.211400 ms)
+
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 4.24 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (3.0 MB). Loaded Objects now: 8513.
+Memory consumption went from 365.1 MB to 362.1 MB.
+Total: 11.018000 ms (FindLiveObjects: 1.244300 ms CreateObjectMapping: 0.469200 ms MarkObjects: 8.239700 ms  DeleteObjects: 0.610100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 4.44 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (3.1 MB). Loaded Objects now: 8513.
+Memory consumption went from 368.1 MB to 365.0 MB.
+Total: 9.541400 ms (FindLiveObjects: 0.926100 ms CreateObjectMapping: 0.326800 ms MarkObjects: 7.409900 ms  DeleteObjects: 0.573400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:21.4417255Z
+  Time since last request: 5309.7452358999999 seconds.
+  importAddress: GUID: 3974238adf8a646d6a2b3ad76793ae41 - Path: Assets/Tiny Swords/Terrain/Decorations/Bushes/Bush 2.png - Importer: PreviewImporter
+Importing 'GUID: 3974238adf8a646d6a2b3ad76793ae41 - Path: Assets/Tiny Swords/Terrain/Decorations/Bushes/Bush 2.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3974238adf8a646d6a2b3ad76793ae41' -> (Import Result ID: '1a6e6656eb67bcd5f6ddd62d91485925') in 0.128 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=99260e6552a2d2788421694dc6c22c9d DependenciesID=5e220c0d41668239f0dc3ad8b24df243 StaticDependenciesID=a41782357d1c8a664f78871e10c62de9 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:21.5914629Z
+  Time since last request: 0.0000246 seconds.
+  importAddress: GUID: 72dc8fc77fc8f43bb9ce7f50bbf11d67 - Path: Assets/Tiny Swords/Terrain/Decorations/Bushes/Bush 3.png - Importer: PreviewImporter
+Importing 'GUID: 72dc8fc77fc8f43bb9ce7f50bbf11d67 - Path: Assets/Tiny Swords/Terrain/Decorations/Bushes/Bush 3.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 72dc8fc77fc8f43bb9ce7f50bbf11d67' -> (Import Result ID: 'b4030058dee67c024839e69cecf6d3bf') in 0.026 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fa3380535b9abc7c04c2bba0357b822d DependenciesID=62362ab4ae9e419fc2c3570347adce56 StaticDependenciesID=0ae725e5590f5e7eb6d9514bb08c2a5f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:28.2469679Z
+  Time since last request: 6.6114757 seconds.
+  importAddress: GUID: 819d349f0d3f54eecac2ed309d6f97a1 - Path: Assets/Tiny Swords/Terrain/Decorations/Rocks/Rock2.png - Importer: PreviewImporter
+Importing 'GUID: 819d349f0d3f54eecac2ed309d6f97a1 - Path: Assets/Tiny Swords/Terrain/Decorations/Rocks/Rock2.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 819d349f0d3f54eecac2ed309d6f97a1' -> (Import Result ID: 'be0cf811706b0977eae62bc3c910e052') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=deb89701943b43ede174fc726597a04c DependenciesID=acbfe554e8c0713b4f4121ccc6c90f17 StaticDependenciesID=9df89f8ecd417fb57fb894cc725e2585 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:28.281951Z
+  Time since last request: 0.0007264 seconds.
+  importAddress: GUID: 2ab63786853d5408b94f25ec2c8883b7 - Path: Assets/Tiny Swords/Terrain/Decorations/Rocks/Rock3.png - Importer: PreviewImporter
+Importing 'GUID: 2ab63786853d5408b94f25ec2c8883b7 - Path: Assets/Tiny Swords/Terrain/Decorations/Rocks/Rock3.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 2ab63786853d5408b94f25ec2c8883b7' -> (Import Result ID: 'daccdf3f8841ebe1a8fc19ba03875d00') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cf34d13241692a7979a7fb0565633e10 DependenciesID=65a713017ebb7ae888999f04c50b2776 StaticDependenciesID=df485c56ff4af80410ecaf58073fa587 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:34.1067248Z
+  Time since last request: 5.7995919 seconds.
+  importAddress: GUID: 9483951be6fb8453f9d2f75614e33c86 - Path: Assets/Tiny Swords/UI Elements/Wood Table/WoodTable_Slots.png - Importer: PreviewImporter
+Importing 'GUID: 9483951be6fb8453f9d2f75614e33c86 - Path: Assets/Tiny Swords/UI Elements/Wood Table/WoodTable_Slots.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 9483951be6fb8453f9d2f75614e33c86' -> (Import Result ID: 'c336875a1bafabfd4b44a3dbd0e17e44') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=784aeca89e1af63c7006101a2a475091 DependenciesID=617609e7d27c39ce735f86730faa9ba0 StaticDependenciesID=ba6394b562c842a791c8a6137722cac9 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:36.6716966Z
+  Time since last request: 2.5381147 seconds.
+  importAddress: GUID: cb17f8006e32c48abaaec2c0383c0502 - Path: Assets/Tiny Swords/UI Elements/Buttons/BigRedButton_Regular.png - Importer: PreviewImporter
+Importing 'GUID: cb17f8006e32c48abaaec2c0383c0502 - Path: Assets/Tiny Swords/UI Elements/Buttons/BigRedButton_Regular.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cb17f8006e32c48abaaec2c0383c0502' -> (Import Result ID: 'a65bb4c40dc4f9713602d977a9f9a36e') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6999131b9c6fa87d0a7c95410d60b648 DependenciesID=2a05f6183e7117853d34c863d619305d StaticDependenciesID=100584c70c2834af9ca691f17a0b578b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:36.7092949Z
+  Time since last request: 0.0007455 seconds.
+  importAddress: GUID: 3e00d43738c5a467181edf257b0ce947 - Path: Assets/Tiny Swords/UI Elements/Buttons/TinySquareRedButton.png - Importer: PreviewImporter
+Importing 'GUID: 3e00d43738c5a467181edf257b0ce947 - Path: Assets/Tiny Swords/UI Elements/Buttons/TinySquareRedButton.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3e00d43738c5a467181edf257b0ce947' -> (Import Result ID: 'e92cc4e3ed8c84c44eba9d427598c7f4') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=04a63cd89dc4d9188371a9b1ad49c6a4 DependenciesID=7ba36a91343773be9dd2b740e41b39b8 StaticDependenciesID=5acc818de8e1d7354be7d91c5b68f601 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:36.7383904Z
+  Time since last request: 0.0005959 seconds.
+  importAddress: GUID: 56ce71218a6d94b7ab49d5573f6b001b - Path: Assets/Tiny Swords/UI Elements/Buttons/TinyRoundBlueButton.png - Importer: PreviewImporter
+Importing 'GUID: 56ce71218a6d94b7ab49d5573f6b001b - Path: Assets/Tiny Swords/UI Elements/Buttons/TinyRoundBlueButton.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 56ce71218a6d94b7ab49d5573f6b001b' -> (Import Result ID: 'f7d316aadeda19ec71f6843c3bbd4423') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=56ced1282c1adc4ef272ef729dde213c DependenciesID=2f8baf18784062583203fed00ace7efe StaticDependenciesID=d4b4759fdf9c25f621ba6225ae8f176a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:36.7641428Z
+  Time since last request: 0.0007447 seconds.
+  importAddress: GUID: 8e5f1ccafb55340459f1b51b1ddeb9ff - Path: Assets/Tiny Swords/UI Elements/Buttons/SmallRedSquareButton_Regular.png - Importer: PreviewImporter
+Importing 'GUID: 8e5f1ccafb55340459f1b51b1ddeb9ff - Path: Assets/Tiny Swords/UI Elements/Buttons/SmallRedSquareButton_Regular.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 8e5f1ccafb55340459f1b51b1ddeb9ff' -> (Import Result ID: 'b3cef96a45c19f4029bfe6d9ee2b2b6a') in 0.024 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=12670e55e48c1668e0fae3e9fdabd9a2 DependenciesID=b30c88ef002cc9965e55e77004f8fe71 StaticDependenciesID=aed7ce8e73a29ee6d128e22dd8440032 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:36.8075793Z
+  Time since last request: 0.0013327 seconds.
+  importAddress: GUID: 0de4de84fd02a4139b7f5756f7bcfc24 - Path: Assets/Tiny Swords/UI Elements/Buttons/TinySquareBlueButton.png - Importer: PreviewImporter
+Importing 'GUID: 0de4de84fd02a4139b7f5756f7bcfc24 - Path: Assets/Tiny Swords/UI Elements/Buttons/TinySquareBlueButton.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 0de4de84fd02a4139b7f5756f7bcfc24' -> (Import Result ID: 'b1430f8dca5a4291a16e5a8d4ee359b1') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=440c5923cd1a8fefc9a8b468cd7e4164 DependenciesID=ac74b459dae4c72ff63d75e8e2bc081c StaticDependenciesID=9045ac26494a9ba9e2b26d4c037c01e4 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:40.0641412Z
+  Time since last request: 3.2266886 seconds.
+  importAddress: GUID: f2be8e01914384dd494098a7740023e7 - Path: Assets/Tiny Swords/UI Elements/Bars/BigBar_Fill.png - Importer: PreviewImporter
+Importing 'GUID: f2be8e01914384dd494098a7740023e7 - Path: Assets/Tiny Swords/UI Elements/Bars/BigBar_Fill.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f2be8e01914384dd494098a7740023e7' -> (Import Result ID: 'b3714002555273b707aa3820ecec3830') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f6e8c86a31abe275b7159b11cc60703f DependenciesID=23603dc27f185345b301e7ba1d81d75d StaticDependenciesID=07275ae3c536442d21cc8334ba539c8e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:40.0879742Z
+  Time since last request: 0.0005411 seconds.
+  importAddress: GUID: 3b5af92575b87497ba7bfae8e982b2f2 - Path: Assets/Tiny Swords/UI Elements/Bars/SmallBar_Base.png - Importer: PreviewImporter
+Importing 'GUID: 3b5af92575b87497ba7bfae8e982b2f2 - Path: Assets/Tiny Swords/UI Elements/Bars/SmallBar_Base.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3b5af92575b87497ba7bfae8e982b2f2' -> (Import Result ID: '253c0b7a991bf39db446ce44bb2b8706') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b3a8c010096f864d2359326d99cc0ba0 DependenciesID=6c13c3c8c8cab03509db06beb70649fe StaticDependenciesID=3d961a212eafc8d43173b90ef63d62a2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:56.9855469Z
+  Time since last request: 16.870355 seconds.
+  importAddress: GUID: bc75dc6a15f5042eca92d2461edc7355 - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_DownRight_Attack.png - Importer: PreviewImporter
+Importing 'GUID: bc75dc6a15f5042eca92d2461edc7355 - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_DownRight_Attack.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: bc75dc6a15f5042eca92d2461edc7355' -> (Import Result ID: '679a5babf5b10935346318fec0815df9') in 0.032 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e3c3ddf775291614ce20cd0b264fd089 DependenciesID=3001af7412fd64865d2231fa6861b9c9 StaticDependenciesID=4399895b8a4a1a91456ff50f5d58de44 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:57.03517Z
+  Time since last request: 0.0006411 seconds.
+  importAddress: GUID: 9ce89f9acaf664ab5814b5855f64c666 - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_Run.png - Importer: PreviewImporter
+Importing 'GUID: 9ce89f9acaf664ab5814b5855f64c666 - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_Run.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 9ce89f9acaf664ab5814b5855f64c666' -> (Import Result ID: 'bd09e838ccc92539a191d6811543b22a') in 0.039 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dc43195b350cc645ed3ae15beab4e004 DependenciesID=47ed782e1e15232076497bdd58c66000 StaticDependenciesID=4ebe90a9d687fe4cbde56f20a14e2b87 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:26:57.0916727Z
+  Time since last request: 0.0005126 seconds.
+  importAddress: GUID: 31e15b074d7344a3b99376dd4f70eb1d - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_Idle.png - Importer: PreviewImporter
+Importing 'GUID: 31e15b074d7344a3b99376dd4f70eb1d - Path: Assets/Tiny Swords/Units/Black Units/Lancer/Lancer_Idle.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 31e15b074d7344a3b99376dd4f70eb1d' -> (Import Result ID: '7cb451de5c7269923438b24c2b28b7e9') in 0.077 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1737f4a2a0b8fc528f983cc51038226e DependenciesID=305ffe700a3f24b0b31e9135f21799fe StaticDependenciesID=62f9e6561097e64e6520129678a0737e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:12.9961914Z
+  Time since last request: 15.80888 seconds.
+  importAddress: GUID: 8fd2d0449599e4f7a9a1f1f170b6a2b0 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_03.png - Importer: PreviewImporter
+Importing 'GUID: 8fd2d0449599e4f7a9a1f1f170b6a2b0 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_03.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 8fd2d0449599e4f7a9a1f1f170b6a2b0' -> (Import Result ID: '0c094726840287fe492cfe3cef01c55f') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b7a73928f32715279d47c351d77e1656 DependenciesID=fc837a879117d8a24e86b061380479b7 StaticDependenciesID=fbed60d78d41fd4737c154fdbfdaba41 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.0258678Z
+  Time since last request: 0.0007009 seconds.
+  importAddress: GUID: 50d984ed102d3422a869cd614752957f - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_13.png - Importer: PreviewImporter
+Importing 'GUID: 50d984ed102d3422a869cd614752957f - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_13.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 50d984ed102d3422a869cd614752957f' -> (Import Result ID: '6771cc0dfd4b6b15492c645d5a9e3778') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5e77875685eadb24ffa26accc1a5bbb4 DependenciesID=3b8baf38654e4c42a882a8a9919a9e43 StaticDependenciesID=1bb82c43d93e5bbbefd8a37f02be972c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.0572372Z
+  Time since last request: 0.0008799 seconds.
+  importAddress: GUID: ee6b934f068f644c1a3b9333862df010 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_11.png - Importer: PreviewImporter
+Importing 'GUID: ee6b934f068f644c1a3b9333862df010 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_11.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: ee6b934f068f644c1a3b9333862df010' -> (Import Result ID: '278b44e2a96745f419e7e247a876c0d0') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b35612f8f4eda5e7f309ea11d0bfc7cd DependenciesID=7ae752efa607ac5f4b3fb6cdb34d1b9c StaticDependenciesID=8263f71c9e2e3cf051377b8c5362679a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.0908618Z
+  Time since last request: 0.0004074 seconds.
+  importAddress: GUID: f1df8963cdffa435d8eb848683b327c3 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_25.png - Importer: PreviewImporter
+Importing 'GUID: f1df8963cdffa435d8eb848683b327c3 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_25.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f1df8963cdffa435d8eb848683b327c3' -> (Import Result ID: '8026f4aa68de492c85d217ef69f7bf96') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8e259e97dc9a3997665c67c8dacc2f8b DependenciesID=9f6fea8c828053cbe6b83f9d307b4aec StaticDependenciesID=f49e13b7462addd28833a4ce39894ce2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.1234405Z
+  Time since last request: 0.0009558 seconds.
+  importAddress: GUID: 775bad7863ac5431e894540037985e03 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_09.png - Importer: PreviewImporter
+Importing 'GUID: 775bad7863ac5431e894540037985e03 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_09.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 775bad7863ac5431e894540037985e03' -> (Import Result ID: 'f0e936a9be2e65061de413155fc7ee74') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7feeb595b53214ddf2bb361165bf5fa7 DependenciesID=01cc02910304e79044bb412ca5d7b935 StaticDependenciesID=516075190825df7e8187f08100ec19f1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:13.1567338Z
+  Time since last request: 0.0014195 seconds.
+  importAddress: GUID: 46fe4a83a5f9d46b8852dad0d6ddf0c4 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_07.png - Importer: PreviewImporter
+Importing 'GUID: 46fe4a83a5f9d46b8852dad0d6ddf0c4 - Path: Assets/Tiny Swords/UI Elements/Human Avatars/Avatars_07.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 46fe4a83a5f9d46b8852dad0d6ddf0c4' -> (Import Result ID: 'f364977678f1c42a22eb09ca68c5462a') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3180738b6587cc3285961a150026fdca DependenciesID=7172cfd3cc3761ea0b9729c4f28006ef StaticDependenciesID=011f9ceab0a08d31bf252cd92643eeba 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-03T16:27:21.3322997Z
+  Time since last request: 8.1457418 seconds.
+  importAddress: GUID: 856b7dfa4baa342ae8083080d963531b - Path: Assets/Tiny Swords/Pawn and Resources/Meat/Sheep/Sheep_Move.png - Importer: PreviewImporter
+Importing 'GUID: 856b7dfa4baa342ae8083080d963531b - Path: Assets/Tiny Swords/Pawn and Resources/Meat/Sheep/Sheep_Move.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 856b7dfa4baa342ae8083080d963531b' -> (Import Result ID: 'f93af0dfdb2bc1bafe8876bdf0b523e0') in 0.033 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3971d8dfef2c8bad2d340d531283714c DependenciesID=83840b88ea698115eb1cb2026705fda1 StaticDependenciesID=950def2c0aeac484a12f2072788d65fb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
